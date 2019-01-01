@@ -22,7 +22,7 @@
     <org.omnirom.omnilib.preference.SystemSettingSwitchPreference
         android:key="button_backlight_enable"
         android:title="@string/button_backlight_enable_title"
-        android:defaultValue="true"/>
+        android:defaultValue="false"/>
     <org.omnirom.omnilib.preference.SystemSettingSwitchPreference
         android:key="custom_button_use_screen_brightness"
         android:title="@string/button_link_brightness"
